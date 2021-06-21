@@ -1,0 +1,30 @@
+.wrapper1 {
+    border: 1px solid rgb(59, 20, 20);
+    background: rgb(255, 245, 254);
+    padding-top: 19px;
+    padding-bottom: 19px;
+    border-radius: 20px;
+    vertical-align: middle;
+}
+h2 {
+    text-align: center;
+}
+.form-control {
+    border-radius: 0.4rem;
+}
+.radio {
+    text-align: center;
+}
+body {
+    font-size: large;
+    background-color: rgb(106, 103, 134);
+}
+.a {
+    width: 100%;
+}
+.alert {
+    position: absolute;
+    top: 10%;
+    left: 1%;
+    width: 400px;
+}
